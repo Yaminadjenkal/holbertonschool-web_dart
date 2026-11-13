@@ -1,0 +1,7 @@
+name: rick_and_morty
+
+dependencies:
+  http: ^1.2.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
